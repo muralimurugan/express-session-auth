@@ -1,0 +1,26 @@
+{
+    "users": [
+       {
+      "id":"2f24vvg",
+      "email": "test@test.com",
+      "password": "$2a$12$nv9iV5/UNuV4Mdj1Jf8zfuUraqboSRtSQqCmtOc4F7rdwmOb9IzNu" 
+    },
+    {
+      "id":"d1u9nq",
+      "email": "user2@example.com",
+      "password": "$2a$12$VHZ9aJ5A87YeFop4xVW.aOMm95ClU.EviyT9o0i8HYLdG6w6ctMfW"
+    },
+      {
+        "id":"1234",
+        "email": "murali@gmail.com",
+        "password": "test"
+      }
+    ],
+    "posts":[
+        {
+            "id":1,
+            "title":"first title",
+            "author":"murali"
+        }
+    ]
+  }
